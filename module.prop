@@ -1,0 +1,7 @@
+id=5Xapn
+name=Universal APN Fix v2
+version=v1
+versionCode=1
+author=pbanj
+description=Attempts to fix apn and signal issues for some roms
+minMagisk=1500
